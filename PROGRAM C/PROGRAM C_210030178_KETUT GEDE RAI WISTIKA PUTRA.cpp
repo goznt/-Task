@@ -45,7 +45,7 @@ int main(int argc, char const *argv[])
     cout << "===========================================================" << endl;
     cout << "|         Ketut Gede Rai Wistika Putra_210030178          |" << endl;
     cout << "===========================================================" << endl;
-    cout << "|                        PROGRAM B                        |" << endl;
+    cout << "|                        PROGRAM C                        |" << endl;
     cout << "===========================================================" << endl;
 
     // Polos objectPolos;
